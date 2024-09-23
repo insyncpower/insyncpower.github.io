@@ -9,6 +9,14 @@ body {
     text-align: center;
 }
 
+#projectAbout {
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    line-height: 200%;
+    font-weight: bold;
+}
+
 #projectMembers{
     padding: 50px;
     text-align: center;
